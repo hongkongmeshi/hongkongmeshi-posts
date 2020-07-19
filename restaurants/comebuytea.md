@@ -1,5 +1,5 @@
 ---
-title: Lab Eat Restaurant & Bar
+title: Comebuy Tea
 date : 2020-05-09
 tags : タピオカミルクティー, 中国茶
 rate : 4
